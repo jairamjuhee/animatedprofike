@@ -183,4 +183,7 @@ font-size: 20px;
 color: #EAF6F6;
 transition: 1s;
 }
+.anchorjs-link {
+  display: none !Important;
+}
 
